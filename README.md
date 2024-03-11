@@ -3,13 +3,13 @@
 <h1>사용한 기술스텍,라이브러리,API,DB</h1> 
   
 <Ul>
-  <LI>Maria DB</LI>
-  <LI>JAVA </LI>
-  <LI>CSS</LI>
-  <LI>HTML</LI>
-  <LI>JavaScript</LI>
-  <LI>Tomcat</LI>
-  <LI>JSTL</LI>
+  <LI><img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"></LI>
+  <LI><img src="https://img.shields.io/badge/java-A100FF?style=for-the-badge&logo=java&logoColor=white"> </LI>
+  <LI><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </LI>
+  <LI><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></LI>
+  <LI><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></LI>
+  <LI><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"></LI>
+
 </Ul>
 
 ---
